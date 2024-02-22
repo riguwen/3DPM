@@ -44,10 +44,7 @@ K"_X_" denotes the fading severity of _X_
 
 ## Authors
 
-* **Eray Guven, Gunes Karabulut Kurt** - *Initial work* - [<_arXiV_>](https://arxiv.org/abs/2401.01504)
+* **Eray Guven, Gunes Karabulut Kurt** - (*Initial work* - [<_arXiV_>](https://arxiv.org/abs/2401.01504) )
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
