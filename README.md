@@ -8,8 +8,8 @@ This description gives a detailed process on how the data was collected. It shou
 
 ### Description of the data
 
-K"x" denotes the fading channel severity of Rician Factor x
-
+K"**x**" denotes the fading channel severity for **x
+**
 ```
 3DPM/
   -Train/
