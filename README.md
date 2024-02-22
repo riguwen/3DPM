@@ -1,10 +1,10 @@
 # About Dataset
 
-3-D Propagation Model is a multi-channel received signal strength within variaing incident wave angle dataset small dataset ready-to-use in few-shot learning applications. 
+The 3-D Propagation Model comprises a small, ready-to-use dataset of multi-channel received signal strength within varying incident wave angles, tailored for few-shot learning applications.
+
 ## About Data collection methodology
 
-A geometry based line of sight synthetic and node to node dataset includes dynamic rotations, antenna impairment, polarization loss and misalignments.   
-This description gives a detailed process on how the data was collected. It should describe the conditions under which the data was recorded and also the devices used to record the data.
+The geometry-based line-of-sight synthetic dataset incorporates dynamic rotations, antenna impairments, polarization losses, and misalignments, facilitating node-to-node analysis.
 
 ### Description of the data
 
