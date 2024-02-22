@@ -8,8 +8,8 @@ The geometry-based line-of-sight synthetic dataset incorporates dynamic rotation
 
 ### Description of the data
 
-K"_X_" denotes the fading severity for _X_
-**
+K"_X_" denotes the fading severity of _X_
+
 ```
 3DPM/
   -Train/
