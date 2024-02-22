@@ -26,7 +26,7 @@ K"_X_" denotes the fading severity of _X_
         -RSS1
         -...    
     -...
-  -Evaluation/
+  -Test/
     -K0
       -Theta0
         -RSS0
