@@ -1,9 +1,8 @@
-# About Dataset
+# 3DPM Dataset
 
 ![RSS_Sample2](https://github.com/riguwen/3DPM/assets/102604584/f0d09d17-f0e0-4657-9245-3e6e5abf7137)
 
-
-The 3-D Propagation Model comprises a small, ready-to-use dataset of multi-channel received signal strength within varying incident wave angles, tailored for few-shot learning applications.
+The 3-D Propagation Model (3DPM) comprises a small, ready-to-use dataset of multi-channel received signal strength within varying incident wave angles, tailored for few-shot learning applications.
 
 ## About Data collection methodology
 
