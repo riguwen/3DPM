@@ -42,7 +42,7 @@ K"x" denotes the fading channel severity of Rician Factor x
 
 ## Authors
 
-* **Eray Guven, Gunes Karabulut Kurt** - *Initial work* - [shashvatshah9](https://github.com/shashvatshah9)
+* **Eray Guven, Gunes Karabulut Kurt** - *Initial work* - [<_arXiV_>](https://arxiv.org/abs/2401.01504)
 
 ## License
 
