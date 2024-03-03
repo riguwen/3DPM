@@ -4,7 +4,7 @@
 
 The 3-D Propagation Model (3DPM) comprises a small, ready-to-use dataset of multi-channel received signal strength within varying incident wave angles, tailored for few-shot learning applications.
 
-## About Data collection methodology
+## About Data Collection 
 
 The geometry-based line-of-sight synthetic dataset incorporates dynamic rotations, antenna impairments, polarization losses, and misalignments, facilitating node-to-node analysis.
 
